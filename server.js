@@ -15,4 +15,4 @@ app.use('/angular', serveStatic(__dirname + '/node_modules/angular/'));
 
 app.listen(5000);
 
-console.log("localhost:5000/directives.html");
+console.log("localhost:5000/index.html");
