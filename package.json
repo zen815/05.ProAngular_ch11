@@ -1,0 +1,27 @@
+{
+  "name": "05.ProAngular_ch11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "angular": "^1.3.16",
+    "bootstrap": "^3.3.4",
+    "connect": "^3.3.5",
+    "serve-static": "^1.9.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zen815/05.ProAngular_ch11.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zen815/05.ProAngular_ch11/issues"
+  },
+  "homepage": "https://github.com/zen815/05.ProAngular_ch11"
+}
